@@ -1,0 +1,82 @@
+1633956547780	geckodriver	INFO	Listening on 127.0.0.1:1085
+1633956550618	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofileaFr1Ah"
+1633956568567	geckodriver	INFO	Listening on 127.0.0.1:13755
+1633956571624	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofileTCuocU"
+1633956572224	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofileTCuocU\\search.json.mozlz4", (void 0)))
+1633956574364	Marionette	INFO	Listening on port 1059
+1633956574806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://base1.zhihuishu.com/able-commons/resources/cdn/ableuploader/0.3/ableuploader.js?v=20201229, line 788: unreachable code after return statement
+1633956590543	Marionette	INFO	Stopped listening on port 1059
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633956598553	geckodriver	INFO	Listening on 127.0.0.1:1090
+1633956601594	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofile7IqWo9"
+1633956602068	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofile7IqWo9\\search.json.mozlz4", (void 0)))
+1633956604151	Marionette	INFO	Listening on port 13494
+1633956604264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://base1.zhihuishu.com/able-commons/resources/cdn/ableuploader/0.3/ableuploader.js?v=20201229, line 788: unreachable code after return statement
+JavaScript error: https://studyh5.zhihuishu.com/static/js/0.07daca7f96a889fb9fe5.js, line 1: TypeError: this.preVideoInfo.studiedLessonDto is undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+[Child 17264, MediaDecoderStateMachine #1] WARNING: 249da8454a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1633956646427	Marionette	INFO	Stopped listening on port 13494
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 14780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633956654412	geckodriver	INFO	Listening on 127.0.0.1:1049
+1633956657451	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofilekj7wOe"
+1633956657920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofilekj7wOe\\search.json.mozlz4", (void 0)))
+1633956659925	Marionette	INFO	Listening on port 1694
+1633956660125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://base1.zhihuishu.com/able-commons/resources/cdn/ableuploader/0.3/ableuploader.js?v=20201229, line 788: unreachable code after return statement
+JavaScript error: https://studyh5.zhihuishu.com/static/js/0.07daca7f96a889fb9fe5.js, line 1: TypeError: this.preVideoInfo.studiedLessonDto is undefined
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Op0h1o4bLATv4Gekw87wLIhuIhk3mUgQ1PXLVSVUXpk.js line 1 > eval line 1684 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: eval line 4 > eval, line 61: TypeError: document.querySelector(...) is null
+JavaScript error: eval line 4 > eval, line 182: TypeError: _self.PlayerStarter.playerArray[0].player is undefined
+JavaScript error: eval line 4 > eval, line 182: TypeError: _self.PlayerStarter.playerArray[0].player is undefined
+JavaScript error: https://studyh5.zhihuishu.com/static/js/vendor.cac9f9b0c8669273daea.js, line 6: Error: Network Error
+[Child 18152, MediaDecoderStateMachine #1] WARNING: 1eafd558ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: https://studyh5.zhihuishu.com/static/js/vendor.cac9f9b0c8669273daea.js, line 6: Error: Network Error
+[Child 18152, MediaDecoderStateMachine #1] WARNING: 1eafe270120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+JavaScript error: moz-extension://2e1270f7-0191-4d31-b146-4d5568c96749/rea/common.js, line 4: Error: Promised response from onMessage listener went out of scope
+1633957384334	Marionette	INFO	Stopped listening on port 1694
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1633957400959	geckodriver	INFO	Listening on 127.0.0.1:1090
+1633957404021	mozrunner::runner	INFO	Running command: "E:\\firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofileBzp8S3"
+1633957404504	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Zeus\\AppData\\Local\\Temp\\rust_mozprofileBzp8S3\\search.json.mozlz4", (void 0)))
+1633957406594	Marionette	INFO	Listening on port 1111
+1633957406686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://base1.zhihuishu.com/able-commons/resources/cdn/ableuploader/0.3/ableuploader.js?v=20201229, line 788: unreachable code after return statement
+JavaScript error: https://studyh5.zhihuishu.com/static/js/0.07daca7f96a889fb9fe5.js, line 1: TypeError: this.preVideoInfo.studiedLessonDto is undefined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1633957544628	Marionette	INFO	Stopped listening on port 1111
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
